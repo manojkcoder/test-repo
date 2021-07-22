@@ -3,7 +3,7 @@
 Plugin Name: Test Repo
 Plugin URI: https://github.com/manojkcoder/test-repo
 Description: Test Repo
-Version: 1.0.0
+Version: 1.0.1
 Author: Manojkcoder
 Author URI: https://github.com/manojkcoder
 License:
