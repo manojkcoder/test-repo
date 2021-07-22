@@ -8,3 +8,10 @@
 * License URI:
 */
 
+class TestRepo
+{
+  public function index(){
+    return "index";
+  }
+}
+new TestRepo();
